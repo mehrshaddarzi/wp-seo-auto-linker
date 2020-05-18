@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SEO Auto Linker\n"
+"POT-Creation-Date: 2020-05-18 14:35+0430\n"
+"PO-Revision-Date: 2020-05-18 14:36+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: seo-auto-linker.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin-json.php:2 inc/admin.php:83 inc/admin.php:84
+msgid "Import/Export"
+msgstr "ورودی/خروجی"
+
+#: inc/admin-json.php:45
+msgid "Your backup file is ready."
+msgstr "فایل بک اپ شما آماده شده است."
+
+#: inc/admin-json.php:46
+msgid "Download file"
+msgstr "دریافت فایل"
+
+#: inc/admin-json.php:68 inc/admin-json.php:79 inc/admin-json.php:87
+msgid "Please Select json file."
+msgstr "لطفا یک فایل json استاندارد انتخاب کنید."
+
+#: inc/admin-json.php:122
+msgid "Import Data was successful."
+msgstr "بارگیری اطلاعات با موفقیت انجام شد."
+
+#: inc/admin-json.php:132
+msgid "Backup Data"
+msgstr "بک آپ گیری اطلاعات"
+
+#: inc/admin-json.php:133
+msgid "Click the button below to get the full list of inputs"
+msgstr "برای دریافت لیست کامل ورودی ها ریول دکمه زیر کلیک کنید"
+
+#: inc/admin-json.php:134
+msgid "Get json file"
+msgstr "دریافت فایل json"
+
+#: inc/admin-json.php:141
+msgid "Import Data"
+msgstr "بارگیری اطلاعات"
+
+#: inc/admin-json.php:142
+msgid "To upload data, please select the file and then click the button"
+msgstr "برای بارگیری داده لطفا فایل را انتخا و سپس روی دکمه کلیک کنید"
+
+#: inc/admin-json.php:147
+msgid "json file"
+msgstr "فایل Json"
+
+#: inc/admin-json.php:155
+msgid "Import"
+msgstr "بارگیری"
+
+#: inc/admin.php:43
+msgid "Sitewide Blacklist"
+msgstr "لیست سیاه"
+
+#: inc/admin.php:50 inc/post-type.php:168
+msgid "Blacklist"
+msgstr "لیست سیاه"
+
+#: inc/admin.php:58
+msgid "Word Boundaries"
+msgstr "مرز های کلمه"
+
+#: inc/admin.php:65
+msgid "Use Alternative Word Boundaries?"
+msgstr "از مرزهای جایگزین کلمه استفاده می کنید؟"
+
+#: inc/admin.php:94 inc/admin.php:151
+msgid "SEO Auto Linker Options"
+msgstr "تنظیمات لینک اتوماتیک سئو"
+
+#: inc/admin.php:95
+msgid "Options"
+msgstr "تنظیمات"
+
+#: inc/admin.php:129
+msgid "Settings Saved"
+msgstr "تنظیمات ذخیره شد"
+
+#: inc/admin.php:157
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+#: inc/admin.php:174
+msgid ""
+"The URLs on your site where you do not want any automatic links to appear.  "
+"One URL per line."
+msgstr ""
+"نشانی های اینترنتی در سایت شما که نمی خواهید هیچ لینک خودکار ظاهر شود. در هر "
+"خط فقط یک آدرس قرار دهید."
+
+#: inc/admin.php:189
+msgid ""
+"If you're having trouble with SEO Auto Linker matching unicode characters "
+"and word boundaries, try checking the box below."
+msgstr ""
+"اگر در تطبیق کاراکترهای یونیکد و مرزهای کلمه با SEO Auto Linker مشکلی "
+"دارید ، کادر زیر را علامت بزنید."
+
+#: inc/base.php:93
+msgid "_blank"
+msgstr "در صفحه جدید"
+
+#: inc/base.php:94
+msgid "_top"
+msgstr "به صورت تمام صفحه"
+
+#: inc/base.php:95
+msgid "_self"
+msgstr "در همان صفحه"
+
+#: inc/post-type.php:88 inc/post-type.php:102
+msgid "Automatic Links"
+msgstr "لینک های اتوماتیک"
+
+#: inc/post-type.php:89
+msgid "Automatic Link"
+msgstr "لینک اتوماتیک"
+
+#: inc/post-type.php:90 inc/post-type.php:92
+msgid "Add New Link"
+msgstr "افزودن لینک جدید"
+
+#: inc/post-type.php:91
+msgid "All Links"
+msgstr "تمامی لینک ها"
+
+#: inc/post-type.php:93
+msgid "Edit Link"
+msgstr "ویرایش لینک"
+
+#: inc/post-type.php:94
+msgid "New Link"
+msgstr "افزودن لینک"
+
+#: inc/post-type.php:95
+msgid "Search Links"
+msgstr "جستجو در لینک ها"
+
+#: inc/post-type.php:96
+msgid "No Links Found"
+msgstr "هیچ لینک یافت نشد"
+
+#: inc/post-type.php:97
+msgid "No Links in the Trash"
+msgstr "هیچ لینک در سطل آشغال یافت نشد"
+
+#: inc/post-type.php:98
+msgid "Auto Linker"
+msgstr "لینک اتوماتیک"
+
+#: inc/post-type.php:104
+msgid "A container for SEO Auto Linker"
+msgstr "یک محدوده برای لینک اتوماتیک سئو"
+
+#: inc/post-type.php:148 inc/post-type.php:343
+msgid "Save"
+msgstr "ذخیره"
+
+#: inc/post-type.php:158
+msgid "Keywords & URL"
+msgstr "کلیدواژه ها و آدرس"
+
+#: inc/post-type.php:178
+msgid "Allowed Post Types"
+msgstr "اجازه دادن به تمامی پست تایپ ها"
+
+#: inc/post-type.php:330
+msgid "You must be an admin to edit links"
+msgstr "شما باید نقش مدیریت داشته باشید تا بتوانید لینک را ویرایش کنید"
+
+#: inc/post-type.php:336
+msgid "Status"
+msgstr "وضعیت"
+
+#: inc/post-type.php:338
+msgid "Enabled"
+msgstr "فعال"
+
+#: inc/post-type.php:339 inc/post-type.php:580
+msgid "Disabled"
+msgstr "غیر فعال"
+
+#: inc/post-type.php:342
+msgid "Delete"
+msgstr "حذف"
+
+#: inc/post-type.php:363 inc/post-type.php:523
+msgid "Keywords"
+msgstr "کلیدواژه ها"
+
+#: inc/post-type.php:369
+msgid "Comma separated. These are the terms you want to link."
+msgstr ""
+"با ویرگول جدا کنید. اینها اصطلاحاتی هستند که می خواهید به آنها پیوند دهید."
+
+#: inc/post-type.php:376 inc/post-type.php:524
+msgid "URL"
+msgstr "آدرس"
+
+#: inc/post-type.php:384
+msgid "The url to which you want to link."
+msgstr "آدرسی که میخواهید به آن لینک دهید."
+
+#: inc/post-type.php:391
+msgid "Links per Page"
+msgstr "لینک های در صفحه"
+
+#: inc/post-type.php:400
+msgid ""
+"The number of times per page (or post type) you wantthe above keyowrds to "
+"link to the url"
+msgstr ""
+"تعداد دفعات در هر صفحه (یا نوع ارسال) که می خواهید کلمات کلیدی فوق را به "
+"آدرس اینترنتی پیوند دهید"
+
+#: inc/post-type.php:409
+msgid "Target"
+msgstr "هدف"
+
+#: inc/post-type.php:423
+msgid "Allow Self Links?"
+msgstr "پیوندهای خودی مجاز هستند؟"
+
+#: inc/post-type.php:434
+msgid "Nofollow This Link"
+msgstr "این لینک را نوفالو کن"
+
+#: inc/post-type.php:464
+msgid "URLs on which you don't want to have this link. One URL per line."
+msgstr ""
+"لینک هایی که شما نمیخواهید بصورت لینک دار شده باشند. هر خط یک آدرس قرار دهید."
+
+#: inc/post-type.php:498 inc/post-type.php:501 inc/post-type.php:503
+#: inc/post-type.php:504 inc/post-type.php:507
+msgid "Link Updated"
+msgstr "لینک آپدیت شد"
+
+#: inc/post-type.php:521
+msgid "Title"
+msgstr "عنوان"
+
+#: inc/post-type.php:522
+msgid "Create date"
+msgstr "تاریخ ایجاد"
+
+#: inc/post-type.php:541
+msgid "No Keywords."
+msgstr "هیچ کلید واژه."
+
+#: inc/post-type.php:548
+msgid "No URL."
+msgstr "هیچ آدرس."
+
+#. Plugin Name of the plugin/theme
+msgid "SEO Auto Linker"
+msgstr "لینک اتوماتیک سئو"
+
+#. Plugin URI of the plugin/theme
+msgid "http://pmg.co/seo-auto-linker"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Allows you to automatically link terms with in your post, page or custom "
+"post type content."
+msgstr ""
+"به شما امکان می دهد تا به طور خودکار اصطلاحات را در پست ، صفحه یا محتوای نوع "
+"پست سفارشی خود پیوند دهید."
+
+#. Author of the plugin/theme
+msgid "Mehrshad Darzi"
+msgstr "مهرشاد درزی"
+
+#. Author URI of the plugin/theme
+msgid "https://realwp.net"
+msgstr ""
+
+#~ msgid "Christopher Davis"
+#~ msgstr "کریستون داوویس"
